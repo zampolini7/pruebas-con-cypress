@@ -1,0 +1,73 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  background-color: #e6c4b1;
+}
+.body .navBarPanda {
+  background-color: #e6c4b1;
+}
+.body .wspContainer .wspRow .wspImg {
+  width: 50px;
+  margin-bottom: 20px;
+}
+.body .homeIntro {
+  font-family: "Roboto", sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+.body .homeIntro .homeIntroRow {
+  font-family: "Roboto", sans-serif;
+}
+.body .homeIntro .homeIntroRow .homeIntroP {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 25px;
+  letter-spacing: 3px;
+  position: absolute;
+  top: 32%;
+  left: 0%;
+  color: black;
+}
+.body .queEsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+  height: 100vh;
+}
+.body .queEsContainer .queEsRow .queEsDiv .queEsImg {
+  display: flex;
+  flex-wrap: wrap;
+  width: 59%;
+  height: 81%;
+  justify-content: center;
+  position: relative;
+  top: 9%;
+  left: 24%;
+}
+.body .textoContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 25px;
+  height: 100vh;
+  letter-spacing: 2px;
+  color: black;
+}
+.body .textoContainer .textoRow .textoDiv .textoP {
+  padding: 100px;
+}
+.body .carrito-div .carrito-row .carrito-div-img {
+  max-width: 7%;
+}
+.body .carrito .carrito-cont .carrito-row1 .btnCaracteristica {
+  height: 60%;
+  align-self: center;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,119 @@
+// e4c4b2 color rosita de panda
+
+// font-family: 'Roboto', sans-serif;
+
+.body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #e6c4b1;
+
+    .navBarPanda{
+        background-color: #e6c4b1;
+    }
+
+    .wspContainer{
+        .wspRow{
+            .wspImg{
+                width: 50px;
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    .homeIntro{
+        font-family: 'Roboto', sans-serif;
+        width: 100vw;
+        height: 100vh;
+    
+        .homeIntroRow{
+            font-family: 'Roboto', sans-serif;
+            .homeIntroP{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                text-align: center;
+                font-family: 'Roboto', sans-serif;
+                font-weight: 300;
+                font-size: 25px;
+                letter-spacing: 3px;
+                position: absolute;
+                top: 32%;
+                left: 0%;
+                color: black;
+    
+            }
+        }
+    }
+    
+    .queEsContainer{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100vw;
+        height: 100vh;
+        
+        .queEsRow{
+            .queEsDiv{
+                .queEsImg{
+                    display: flex;
+                    flex-wrap: wrap;
+                    width: 59%;
+                    height: 81%;
+                    justify-content: center;
+                    position: relative;
+                    top: 9%;
+                    left: 24%;
+    
+                }
+            }
+        }
+    }
+
+    .textoContainer{
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 25px;
+        height: 100vh;
+        letter-spacing: 2px;
+       
+        color: black;
+        .textoRow{
+            .textoDiv{
+                .textoP{
+                    padding: 100px;
+                    
+
+                }
+            }
+        }
+    }
+
+    .carrito-div{
+        .carrito-row{
+           .carrito-div-img{
+               max-width: 7%;
+           }
+        }
+    }
+
+    .carrito{
+        .carrito-cont{
+            .carrito-row1{
+                .btnCaracteristica{
+                    height: 60%;
+                    align-self: center;
+                    
+                }
+                
+            }
+        }
+    }
+
+
+
+
+}    
+
